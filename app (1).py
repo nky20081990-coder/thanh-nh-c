@@ -25,7 +25,7 @@ st.markdown("### 🧭 Chọn phòng nghiên cứu")
 a,b = st.columns(2)
 with a:
     st.info("🚗 **TRANG 1 — Ô TÔ 3D**\n\nKhung gầm, thân vỏ, bánh xe, phanh, treo, lái, nội thất, hệ thống nhiên liệu và xả.")
-    st.pages_link("pages/01_oto_3d.py", label="Mở trang Ô tô 3D", icon="🚗")
+    st.page_link("pages/01_oto_3d.py", label="Mở trang Ô tô 3D", icon="🚗")
 with b:
     st.success("⚙️ **TRANG 2 — ĐỘNG CƠ & HỘP SỐ**\n\nPhân rã sâu động cơ và hộp số: vỏ hộp số, trục vào, trục trung gian, trục ra, bánh răng và bộ đồng tốc.")
     st.page_link("pages/02_Động_cơ_Hộp_số.py", label="Mở trang Động cơ & Hộp số", icon="⚙️")
