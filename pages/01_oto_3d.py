@@ -93,4 +93,4 @@ for title,desc in [
         st.write(desc)
 
 st.page_link("app.py",label="← Trang chính",icon="🏠")
-st.page_link("pages/02_Động_cơ_Hộp_số.py",label="→ Sang Động cơ & Hộp số",icon="⚙️")
+st.page_link("pages/02_dongcohopso.py",label="→ Sang Động cơ & Hộp số",icon="⚙️")
