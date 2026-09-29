@@ -138,4 +138,4 @@ with tab2:
 
 st.markdown("---")
 st.page_link("app.py",label="← Trang chính",icon="🏠")
-st.page_link("pages/01_Ô_tô_3D.py",label="← Ô tô 3D",icon="🚗")
+st.page_link("pages/01_oto_3d.py",label="← Ô tô 3D",icon="🚗")
